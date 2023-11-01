@@ -1,2 +1,2 @@
 # discord-to-invision-forum-role-syncer
-Change roles on Invision Community forums based on their role in Discord. 
+Change roles on Invision Community forums based on their role in Discord. This is provided as it as it requires modification for it to work with your roles. Unlike other solutions this will update the Invision database directly from Discord -> forums. Not the otherway around. Discord is the master, forums are the slave. This is more suitable where forums are less moderated compared to their Discord.
